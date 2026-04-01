@@ -99,14 +99,6 @@
 
 ---
 
-## 🎮 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Latorynska/Latorynska/output/pacman-contribution-graph.svg" />
-</p>
-
----
-
 <p align="center">
   ⭐ From <a href="https://github.com/latorynska">latorynska</a>
 </p>
