@@ -72,17 +72,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=latorynska&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" height="150" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=latorynska&theme=dark&hide_border=false&cache_seconds=86400" height="150" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=latorynska&theme=github_dark" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latorynska&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latorynska&theme=github_dark" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latorynska&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" height="150" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latorynska&theme=github_dark" />
 </p>
 
 ---
