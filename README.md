@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Paksi 👋</h1>
+<h1 align="center">hello there! I'm Paksi 👋</h1>
 <p align="center">
-  💻 Backend Engineer | Distributed Systems Enthusiast
+  Backend Engineer
 </p>
 
 <p align="center">
-  Building scalable backend systems using Go, Kafka, and Redis 🚀
+  Building scalable backend systems using Go, Kafka, and Redis
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 <p align="center">
   <a href="https://latorynska.github.io">
@@ -28,7 +28,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=latorynska&theme=github_dark" />
@@ -86,7 +86,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/USERNAME">
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/latorynska">latorynska</a>
+ From <a href="https://github.com/latorynska">latorynska</a>
 </p>
